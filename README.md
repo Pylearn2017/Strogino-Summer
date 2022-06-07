@@ -20,7 +20,7 @@
   + [Приёмыш ](https://pylearn2017.github.io/summer/first/Приёмыш/website.html)
 ## Второй день
 * Девятый отряд 
-+ [Игра удержи курсор](https://pylearn2017.github.io/summer/second/Девятый/assets/index.html)
+  + [Игра удержи курсор](https://pylearn2017.github.io/summer/second/Девятый/assets/index.html)
 * Десятый отряд
-+ [Анимация пляжной поездки](https://pylearn2017.github.io/summer/second/Десятый/assets/index.html)
+  + [Анимация пляжной поездки](https://pylearn2017.github.io/summer/second/Десятый/assets/index.html)
 
