@@ -1,0 +1,12 @@
+.box {
+    width: 100px;
+    height: 100px;
+    background: green;
+    transition: 5s;
+}
+
+.box:hover {
+    width: 3000px;
+    transform: rotate(360deg);
+    background: red;
+}
