@@ -1,7 +1,7 @@
 # Сайты летней IT смены
 ## Первый день
 * Девятый отряд 
-  + [cf ](https://pylearn2017.github.io/summer/first/cf/cf.html)
+  + [cf ](https://pylearn2017.github.io/summer/first/cf/CF.html)
   + [Александ ](https://pylearn2017.github.io/summer/first/Александ/Сайт.html)
   + [Александр ](https://pylearn2017.github.io/summer/first/Александр/сайт.html)
   + [Александр2 ](https://pylearn2017.github.io/summer/first/Александр2/САЙТ.html)
